@@ -4,7 +4,7 @@ To run Cypress tests on Chrome for the first time, you'll need to follow these s
 
 1. Install Node.js
 
-Cypress requires Node.jsto run. If you don't have Node.jsinstalled, download and install it from the official Node.js website.
+Cypress requires Node.js to run. If you don't have Node.js installed, download and install it from the official Node.js website.
 
 2. Install Cypress
 
@@ -33,3 +33,5 @@ Make sure you have Google Chrome installed on your machine.
 To run your tests on Chrome, you can use the following command:
 
 npx cypress run --browser chrome  --spec cypress/e2e/challengeTest.cy.js
+
+6. TestStrategy.docx and CodingVideoLink.txt files can be found inside the project folder
