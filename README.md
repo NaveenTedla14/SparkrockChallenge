@@ -14,8 +14,11 @@ npm install cypress --save-dev
 After installing Cypress, you can open the Cypress Test Runner by running:
 
 npx cypress open
+
 Select e2e testing option
+
 Select chrome browser
+
 Click on challengTest.cy.js file to start execution
 
 4. Install Chrome (if not already installed)
