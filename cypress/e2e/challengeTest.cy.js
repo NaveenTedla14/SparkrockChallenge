@@ -1,7 +1,7 @@
 // Test Case 1: Search for a Product.
 describe('Search for a Product', () => {
     beforeEach(() => {
-      // Navigate to the homepage of the THEMERC website
+      // Navigate to the homepage of the Dell website
       cy.visit('https://www.dell.com/');
       
     });
@@ -27,7 +27,7 @@ describe('Search for a Product', () => {
 describe('Add prodcut to the cart', () => {
     beforeEach(() => {
       cy.clearCookies()
-      // Navigate to the homepage of the THEMERC website
+      // Navigate to the homepage of the Dell website
       cy.visit('https://www.dell.com/');
       
     });
